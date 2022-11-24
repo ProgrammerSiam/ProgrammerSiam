@@ -5,7 +5,7 @@
 
 
 
-![I am a Web Developer](https://www.canva.com/design/DAFS4ax_KBk/5CMJ87Fky-SciBlQCtbTog/view?utm_content=DAFS4ax_KBk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![I am a Web Developer](https://www.canva.com/design/DAFS4ax_KBk/view)
 
 
 
