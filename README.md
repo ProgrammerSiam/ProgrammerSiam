@@ -46,12 +46,5 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmersiam&show_icons=true&locale=en" alt="programmersiam" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmersiam&" alt="programmersiam" /></p>
