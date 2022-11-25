@@ -1,5 +1,5 @@
 <p align="center">
-<img height="10" width="100%"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="programmersiam" />
+<img height="100" width="100%"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="programmersiam" />
 </p>
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Siam</h1>
 <h3 align="center">I am a front-end developer</h3>
