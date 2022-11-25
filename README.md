@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Siam</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xwptff4dwckqqr0c29ynxcd65c2nrh7kcccotull&rid=giphy.gif&ct=g" alt="programmersiam" />
+<img align="canter" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xwptff4dwckqqr0c29ynxcd65c2nrh7kcccotull&rid=giphy.gif&ct=g" alt="programmersiam" />
 
 
 
@@ -22,11 +22,6 @@
 <br>
 
 
-
-<br>
-<br>
-<br>
-<br>
 
 
 
