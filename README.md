@@ -22,9 +22,16 @@
 
 - 🌱 I’m currently learning **React.js**
 
+- 💬 Ask me about **JavaScript, TypeScript, React**
+
+- 🥅 2021 Goals: Get a job as a Developer
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/programmersiam/](https://www.linkedin.com/in/programmersiam/)
 
 - 📫 How to reach me **mehedihasansiam.com@gmail.com**
+
+- ⚡ Fun fact: ...I love to travel and teaching.
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
