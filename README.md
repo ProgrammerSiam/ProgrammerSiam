@@ -21,8 +21,6 @@
 
 - :hearts: &emsp;I enjoy programming and sharing knowledge 
 
-- :computer: &emsp;Most used line of code `console.log("hello world")`
-
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **JavaScript, TypeScript, React**
@@ -30,6 +28,8 @@
 - 🥅 2023 Goals: Get a job as a Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProgrammerSiam?tab=repositories]
+
+- :computer: &emsp;Most used line of code `console.log("hello world")`
 
 - 📫 How to reach me **mehedihasansiam.com@gmail.com**
 
