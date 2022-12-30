@@ -19,6 +19,9 @@
 
 <hr>
 
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 
 - 🌱 I’m currently learning **React.js**
 
