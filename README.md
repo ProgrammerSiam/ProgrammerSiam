@@ -24,9 +24,9 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React**
 
-- 🥅 2021 Goals: Get a job as a Developer
+- 🥅 2023 Goals: Get a job as a Developer
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/programmersiam/](https://www.linkedin.com/in/programmersiam/)
+- 👨‍💻 All of my projects are available at [https://github.com/ProgrammerSiam?tab=repositories]
 
 - 📫 How to reach me **mehedihasansiam.com@gmail.com**
 
