@@ -40,7 +40,6 @@
 <p align="left">
 <a href="https://codepen.io/programmersiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="programmersiam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18747255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18747255" height="30" width="40" /></a>
-</p>
 <a href="https://twitter.com/programmersiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programmersiam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/programmersiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="programmersiam" height="30" width="40" /></a>
 <a href="https://fb.com/programmermehedihasansiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="programmermehedihasansiam" height="30" width="40" /></a>
