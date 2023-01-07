@@ -19,7 +19,7 @@
 
 <hr>
 
-- :hearts: &emsp;I enjoy programming and sharing knowledge 
+- :hearts: I enjoy programming and sharing knowledge 
 
 - 🌱 I’m currently learning **React.js**
 
