@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Siam</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Designer;Web+Developer;Front-End+Developer;Mern-stack+Developer" alt="Typing SVG" /></a>
+## <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=#B8C0C7&center=true&width=410&lines=%F0%9F%8C%90+Web+Designer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Web+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://developer-shourav.web.app)</p>
 
 <p  align="center">
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xwptff4dwckqqr0c29ynxcd65c2nrh7kcccotull&rid=giphy.gif&ct=g" alt="programmersiam" />
