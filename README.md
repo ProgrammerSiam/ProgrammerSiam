@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProgrammerSiam?tab=repositories]
 
-- :computer: &emsp;Most used line of code `console.log("hello world")`
+- :computer:Most used line of code `console.log("hello world")`
 
 - 📫 How to reach me **mehedihasansiam.com@gmail.com**
 
