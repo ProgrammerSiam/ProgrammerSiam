@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **mehedihasansiam.com@gmail.com**
 
-- ⚡ Fun fact: ...I love to travel and teaching.
+- ⚡ Fun fact : ...I love to travel and teaching.
 
 <hr>
 <h3 align="left">Connect with me:</h3>
