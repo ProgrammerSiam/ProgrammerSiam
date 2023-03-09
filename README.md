@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Siam</h1>
-<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8C0C7&center=true&vCenter=true&width=435&lines=Web+Designer;Web+Developer;Front-End+Developer;Mern-stack+Developer" alt="Typing SVG" /></p>
+<h1>Hi 👋, I'm Mehedi Hasan Siam</h1>
+<p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8C0C7&center=true&vCenter=true&width=435&lines=Web+Designer;Web+Developer;Front-End+Developer;Mern-stack+Developer" alt="Typing SVG" /></p>
 
-<p  align="center">
+<p>
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xwptff4dwckqqr0c29ynxcd65c2nrh7kcccotull&rid=giphy.gif&ct=g" alt="programmersiam" />
 
 </p>
@@ -11,15 +11,15 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=programmersiam&label=Profile%20views&color=0e75b6&style=flat" alt="programmersiam" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=programmersiam&label=Profile%20views&color=0e75b6&style=flat" alt="programmersiam" /> </p>
 
-<p align="center"> <a href="https://twitter.com/programmersiam" target="blank"><img src="https://img.shields.io/twitter/follow/programmersiam?logo=twitter&style=for-the-badge" alt="programmersiam" /></a> </p>
+<p> <a href="https://twitter.com/programmersiam" target="blank"><img src="https://img.shields.io/twitter/follow/programmersiam?logo=twitter&style=for-the-badge" alt="programmersiam" /></a> </p>
 
 <hr>
 
 - :hearts: I enjoy programming and sharing knowledge 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **JavaScript, TypeScript, React**
 
