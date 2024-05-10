@@ -1,12 +1,5 @@
 
 <h1  align="center">Hi 👋, I'm Mehedi Hasan Siam</h1>
-<p  align="center">
-<img  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xwptff4dwckqqr0c29ynxcd65c2nrh7kcccotull&rid=giphy.gif&ct=g" alt="programmersiam" />
-
-</p>
-
-
-
 
 
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=programmersiam&label=Profile%20views&color=0e75b6&style=flat" alt="programmersiam" /> </p>
