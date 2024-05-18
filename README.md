@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React**
 
-- 🥅 2023 Goals: Get a job as a Developer
+- 🥅 2024 Goals: Get a job as a Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProgrammerSiam?tab=repositories]
 
