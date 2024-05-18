@@ -19,7 +19,7 @@
 
 - :computer: Most used line of code `console.log("hello world")`
 
-- 📫 How to reach me **mehedihasansiam.com@gmail.com**
+- 📫 How to reach me **mehedihasansiam.info@gmail.com**
 
 - ⚡ Fun fact : ...I love to travel and teaching.
 
