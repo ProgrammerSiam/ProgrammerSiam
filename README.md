@@ -19,35 +19,6 @@
 
 ---
 
-## 🛑 **Digital Services & AI-Driven Solutions I Offer**  
-
-### 🚀 **Web & AI Development**  
-🌐 **AI-Enhanced Website Development**  
-🛠️ **Custom AI-Powered Web Solutions**  
-🎨 **Pixel-Perfect & Smart UI/UX Design**  
-📱 **AI-Optimized Responsive Web Apps**  
-🚀 **Landing Page Development with AI Features**  
-💼 **SaaS & AI-Powered Dashboard Development**  
-⚡ **Single-Page Application (SPA) Development**  
-🔄 **Figma to AI-Powered HTML Conversion**  
-🛒 **E-commerce with AI Personalization**  
-🎓 **Ed-Tech Platform with AI Learning Assistants**  
-📂 **Portfolio Website with AI Auto-Updating Content**  
-✍️ **AI-Assisted Blog Development**  
-🏬 **AI-Powered Shop Website Development**  
-🌟 **MERN Stack & AI Integration**  
-🔧 **Full-Stack AI-Powered Development**  
-📝 **CMS & AI Content Automation**  
-📈 **AI-Optimized SEO Web Development**  
-📲 **Mobile-First & AI-Predictive Interfaces**  
-⚙️ **AI-Powered API Integration & Automation**  
-🌍 **AI-Enhanced Web Performance & Security**  
-🚀 **Website Speed & Optimization with AI**  
-🔧 **Web Maintenance & AI-Driven Updates**  
-⚡ **No-Code AI Web Solutions**  
-
----
-
 ## 📊 **GitHub Stats & AI-Powered Contributions**  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerSiam&show_icons=true&theme=radical" alt="GitHub Stats">
