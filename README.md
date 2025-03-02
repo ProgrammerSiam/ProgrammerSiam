@@ -74,15 +74,11 @@
 
 ---
 
-## 📊 **GitHub Stats & AI-Powered Contributions**  
+## 📊 **GitHub Stats & Contributions**  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerSiam&show_icons=true&theme=dark" alt="GitHub Stats">
-
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerSiam&theme=dark" alt="GitHub Streak">
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=programmersiam&show_icons=true&locale=en&layout=compact&theme=dark" alt="programmersiam" />
 </p>
 
