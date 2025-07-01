@@ -2,7 +2,7 @@
 
 
 # 👋 Hello! I'm Mehedi Hasan Siam  
-🚀 Front-End & AI-Powered Web Developer | 1.5+ Years of Experience | Pabna, Bangladesh  
+🚀 Front-End & AI-Powered Web Developer | 2+ Years of Experience | Pabna, Bangladesh  
 
 🎨 Passionate about creating **intelligent, responsive, and visually appealing** web interfaces that leverage the latest **AI-driven technologies** for enhanced user experiences.  
 
