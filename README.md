@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=programmersiam&label=Profile%20views&color=0e75b6&style=flat" alt="programmersiam" />
 
 # 👋 Hey, I’m Mehedi Hasan Siam  
-🚀 **Front-End Developer | AI-Powered Web Solutions | 2.5+ Years Experience**  
+🚀 **Front-End Developer | AI-Powered Web Solutions | 3+ Years Experience**  
 📍 Pabna, Bangladesh  
 
 ---
