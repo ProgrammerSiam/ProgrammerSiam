@@ -76,28 +76,6 @@ With **3+ years of hands-on experience** in software development, I specialize i
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 [AmericatoBD](https://www.americatobd.com/) - E-Commerce Platform
-- Full-stack e-commerce solution with **secure checkout & Stripe payment integration**
-- Role-based dashboards for admin, vendor, and customer management
-- **Performance optimization:** Improved mobile Lighthouse score from 78 → 95+
-- Technologies: Next.js, MongoDB, Tailwind CSS, Stripe API
-
-### 💻 [ps-Stickycoder](https://ps-stickycoder.vercel.app) - Interactive Coding Platform
-- Real-time code execution environment with syntax highlighting
-- Community features including **blogging, commenting & reaction systems**
-- Responsive design with excellent mobile experience
-- Technologies: React, Node.js, Monaco Editor, WebSockets
-
-### 📝 [ps-Blogging](https://ps-blogging.vercel.app) - Content Management Platform
-- Rich text editor powered by **Editor.js** with advanced formatting
-- Nested comment system with real-time notifications
-- User dashboards for content creation and profile management
-- Technologies: Next.js, Supabase, Tailwind CSS, Editor.js
-
----
-
 ## 🔮 Current Focus
 
 - 🤖 Building **AI-powered SaaS products** with advanced automation and intelligent features
