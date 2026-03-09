@@ -85,14 +85,17 @@ With **3+ years of hands-on experience** in software development, I specialize i
 - 🚀 Exploring **DevOps best practices** and infrastructure as code (Terraform, Ansible)
 - 🌐 Contributing to **open-source projects** and building developer communities
 
+
+
+<!-- 
+
 ---
 
 ## 📊 GitHub Analytics
-
 <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerSiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerSiam&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerSiam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerSiam&layout=compact&theme=tokyonight&hide_border=true" height="170"/> -->
 
 ---
 
