@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Mehedi Hasan Siam
 
-**Founder & CEO @SehaLabs 🚀 | Software Developer & System Architect 💻 | UI/UX Designer | AI & DevOps 🤖**
+**Founder & CEO @SehaLabs 🚀 | Software Developer & System Design 💻 | UI/UX Designer | AI & DevOps 🤖**
 
 📍 Pabna, Bangladesh
 
