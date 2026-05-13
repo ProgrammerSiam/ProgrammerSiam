@@ -2,13 +2,15 @@
 
 # 👋 Hey, I'm Mehedi Hasan Siam
 
-**Software Developer & System Designer | Automation & Scraping | UI/UX Designer | AI/ML & DevOps | SaaS Builder.**
+**Software & App Developer · SaaS Builder · AI/ML · Automation · DevOps · UI/UX · System Design**
+> Building products that grow businesses — Entrepreneur · Open to Work & Collab
 
-📍 Pabna, Bangladesh
+📍 Pabna, Bangladesh &nbsp;|&nbsp; 🏢 Founder & CEO @ SehaLabs
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://programmersiam.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/programmersiam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasansiam.info@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProgrammerSiam)
 
 ---
 
@@ -16,97 +18,108 @@
 
 I'm a **Full-Stack Developer & System Architect** passionate about building **scalable, high-performance web applications** that solve real-world problems. As the **Founder & CEO of SehaLabs**, I lead innovative projects combining cutting-edge technology with exceptional user experience.
 
-With **3+ years of hands-on experience** in software development, I specialize in:
-- 🎨 **UI/UX Design** - Creating intuitive, beautiful interfaces that users love
-- ⚡ **Full-Stack Development** - Building robust applications from front-end to back-end
-- 🏗️ **System Architecture** - Designing scalable, maintainable software systems
-- 🤖 **AI Integration** - Implementing AI-powered features and intelligent automation
-- 🚀 **DevOps & Cloud** - Streamlining deployment pipelines and infrastructure management
+With **3+ years of hands-on experience**, I bridge the gap between great engineering and great product — from database design to deployment automation, from pixel-perfect UI to intelligent automation systems.
 
-💡 **My Philosophy:** Great software = **Clean Code + Great Design + Optimized Performance + AI Innovation**
+💡 **Philosophy:** Great software = **Clean Code + Great Design + Optimized Performance + AI Innovation**
 
 ---
 
 ## 🔑 Core Strengths
 
-- 🏗️ **System Architecture** → Design and implement scalable microservices and monolithic architectures
-- ⚡ **Performance Optimization** → Achieved up to 40% reduction in load times through lazy loading, caching, and code splitting
-- 🎨 **UI/UX Design & Development** → Creating pixel-perfect, responsive interfaces with Figma, shadcn/ui, and modern CSS frameworks
-- ♿ **Accessibility Champion** → WCAG & ARIA compliant solutions for inclusive user experiences
-- 🤖 **AI & Automation** → Integrating AI models, chatbots, and intelligent automation into web applications
-- 🔴 **Real-Time Applications** → WebSockets, Socket.io, live chat, video integration, and collaborative features
-- 🔌 **API Design & Integration** → RESTful APIs, GraphQL, Prisma ORM, database optimization
-- 🚀 **DevOps & CI/CD** → Docker containerization, GitHub Actions, automated testing, and deployment pipelines
-- 🌐 **Full-Stack Development** → End-to-end application development from database design to frontend deployment
-- 🤝 **Leadership & Collaboration** → Leading development teams, Agile methodologies, code reviews, and mentoring
+| Strength | What I deliver |
+|----------|---------------|
+| 🏗️ **System Architecture** | Scalable microservices and monolithic architectures with clean separation of concerns |
+| ⚡ **Performance Optimization** | Up to 40% reduction in load times via lazy loading, caching, and code splitting |
+| 🎨 **UI/UX Design & Development** | Pixel-perfect, responsive interfaces with Figma, shadcn/ui, and modern CSS frameworks |
+| ♿ **Accessibility Champion** | WCAG & ARIA compliant solutions for inclusive user experiences |
+| 🤖 **AI & Automation** | LLM integration, chatbots, RAG pipelines, and intelligent automation |
+| 🔴 **Real-Time Applications** | WebSockets, Socket.io, live chat, video integration, and collaborative features |
+| 🔌 **API Design & Integration** | RESTful APIs, GraphQL, Prisma ORM, third-party service integration |
+| 🚀 **DevOps & CI/CD** | Docker, GitHub Actions, automated testing, and deployment pipelines |
+| 🌐 **Full-Stack Development** | End-to-end application development from database design to frontend deployment |
+| 🤝 **Technical Leadership** | Agile delivery, code reviews, architectural decisions, and mentoring |
+| 🧠 **Prompt Engineering** | Designing LLM prompts, RAG pipelines, and AI-augmented workflows |
+| 🕷️ **Web Scraping & Data Pipelines** | Playwright, Puppeteer, Scrapy — headless automation at scale |
+| 📦 **SaaS Product Strategy** | Multi-tenant architecture, billing integration, growth-focused feature design |
+| 🧪 **Testing & Code Quality** | Jest, Cypress, React Testing Library, ESLint — TDD and quality-first culture |
+| 🔐 **Security Fundamentals** | JWT, OAuth2, OWASP best practices, input sanitization, rate limiting |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Languages & Runtimes
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Styling & Design
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Database & Backend
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Automation & Scraping
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### AI & ML
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Detailed Stack:**
-- **Frontend:** React.js, Next.js, Redux Toolkit, Zustand, React Query, Framer Motion
-- **Styling:** Tailwind CSS, Sass, shadcn/ui, Webflow, WordPress
-- **Backend:** Node.js, Express.js, Django, Prisma
-- **Testing:** Jest, React Testing Library, Cypress, ESLint, Prettier
-- **Build Tools:** Webpack, Vite, Git/GitHub
+### Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 ---
 
 ## 🔮 Current Focus
 
 - 🤖 Building **AI-powered SaaS products** with advanced automation and intelligent features
-- 💬 Developing **AI assistants, chatbots & conversational interfaces** for enhanced user experiences
-- 🏗️ Mastering **System Design, Microservices Architecture & Cloud Infrastructure** (AWS, Docker, Kubernetes)
+- 💬 Developing **AI assistants, chatbots & conversational interfaces** for enhanced UX
+- 🧠 Exploring **Prompt Engineering, RAG pipelines, and AI agent frameworks**
+- 🏗️ Mastering **System Design, Microservices & Cloud Infrastructure** (AWS, Docker, Kubernetes)
 - 🎨 Advancing **UI/UX design skills** with motion design and interactive prototyping
 - 🚀 Exploring **DevOps best practices** and infrastructure as code (Terraform, Ansible)
 - 🌐 Contributing to **open-source projects** and building developer communities
-
-
-
-<!-- 
-
----
-
-## 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=ProgrammerSiam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerSiam&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerSiam&layout=compact&theme=tokyonight&hide_border=true" height="170"/> -->
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
 I'm always excited to work on innovative projects, especially in:
-- 🤖 **AI & Machine Learning Applications** - Chatbots, automation, intelligent systems
-- 🚀 **SaaS Product Development** - Full-stack applications with modern tech stacks
-- ⚡ **Next.js & React Ecosystems** - High-performance web applications
-- 🎨 **UI/UX Design & Development** - Beautiful, accessible user interfaces
-- 🏗️ **System Architecture & DevOps** - Scalable infrastructure and deployment automation
+
+- 🤖 **AI & Machine Learning Applications** — chatbots, automation, intelligent systems
+- 🚀 **SaaS Product Development** — full-stack apps with modern tech stacks
+- ⚡ **Next.js & React Ecosystems** — high-performance web applications
+- 🎨 **UI/UX Design & Development** — beautiful, accessible user interfaces
+- 🏗️ **System Architecture & DevOps** — scalable infrastructure and deployment automation
+- 🕷️ **Automation & Scraping** — data pipelines, headless browsers, workflow automation
 
 ### 📫 Get In Touch
 
