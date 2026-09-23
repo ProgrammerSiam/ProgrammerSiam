@@ -2,8 +2,7 @@
 
 # Mehedi Hasan Siam
 
-**🔥Software Developer & SaaS Builder | AI/ML · Automation & Scraping · DevOps · UI/UX · System Design | </br>
-💡Turning Profitable Ideas Into Products That Grow.**
+**Software Engineer · Founder @SEHAlabs | I help founders turn ideas into production-ready products | Product R&D · MVPs · SaaS · AI & Automation**
 
 > Building products that grow businesses — Entrepreneur · Open to Work & Collab
 
