@@ -2,8 +2,8 @@
 
 # Mehedi Hasan Siam
 
-**Software Engineer · Founder @SEHAlabs | I help founders turn ideas into production-ready products </br>
-| Product R&D · MVPs · SaaS · AI & Automation**
+**Software Engineer · Founder @SEHAlabs | I help founders turn ideas into </br>
+production-ready products | Product R&D · MVPs · SaaS · AI & Automation**
 
 > Building products that grow businesses — Entrepreneur · Open to Work & Collab
 
